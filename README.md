@@ -9,4 +9,6 @@ Logiciels utilisés : RStudio, PHP, SQL, Excel et LaTeX.
 
 👉 [Télécharger le rapport PDF](https://github.com/omialaasili/Analyse-des-performances-des-pays-lors-des-JO-d-hiver-de-Beijing-2022-/raw/main/rapport/Rapport.pdf)
 
+Projet réalisé par Akiki Chris, Laasili Omia, Souci Maîssane et Sriri Samia
+
 
