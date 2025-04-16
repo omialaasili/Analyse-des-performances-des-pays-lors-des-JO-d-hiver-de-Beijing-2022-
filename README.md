@@ -6,6 +6,7 @@ Analyse des performances des pays par discipline et pays d'origine, gestion de l
 Nettoyage des données, modélisation et analyse statistique.  
 
 Logiciels utilisés : RStudio, PHP, SQL, Excel et LaTeX.
-👉 [Lire le rapport PDF](https://github.com/omialaasili/Analyse-des-performances-des-pays-lors-des-JO-d-hiver-de-Beijing-2022-/raw/main/rapport/Rapport.pdf)
+
+👉 [Télécharger le rapport PDF](https://github.com/omialaasili/Analyse-des-performances-des-pays-lors-des-JO-d-hiver-de-Beijing-2022-/raw/main/rapport/Rapport.pdf)
 
 
